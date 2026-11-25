@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
   // "name" is the name of your Worker. It becomes part of your website address.
-  "name": "startup-launch-kit-17",
+  "name": "Uninest",
   "compatibility_date": "2026-10-01",
 
   // LEVEL 1: a static website.
