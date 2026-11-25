@@ -11,17 +11,17 @@ export const site: SiteConfig = {
   // ----------------------------------------------------------
   //  EDIT: basics. Start here (Level 1, Part B).
   // ----------------------------------------------------------
-  name: "Plovify",
-  tagline: "Plov as a Service",
+  name: "Uninest",
+  tagline: "Find a roommate",
   description:
-    "Plovify brings hot, fresh plov to every table, from a family dinner to a wedding for 800 guests. Replace this text with one or two sentences about the problem your startup solves and who it is for.",
-  accentColor: "#e8630a", // your brand colour as a hex code, e.g. "#2563eb" (blue)
-  contactEmail: "hello@plovify.example",
+    " This is place to find roomates and apartments in the city. The owners can list apartments and mainly students can find place for roommates and apartments. The starting city is Yerevan.",
+  accentColor: "#2563eb", // your brand colour as a hex code, e.g. "#2563eb" (blue)
+  contactEmail: "uninest111@gmail.com",
 
   // Building your own startup? Set this to false.
   // (It hides the Plovify menu, numbers, FAQ and sample blog posts,
   //  and uses neutral texts about YOUR startup instead.)
-  showPlovifyExamples: true,
+  showPlovifyExamples: false,
 
   // ----------------------------------------------------------
   //  OPTIONAL: more sections. Edit them later if you like.
