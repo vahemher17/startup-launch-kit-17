@@ -2,7 +2,7 @@
   "$schema": "./node_modules/wrangler/config-schema.json",
   // IMPORTANT: "name" must match the name of YOUR Worker.
   // If you renamed it when you clicked "Deploy to Cloudflare", put that name here.
-  "name": "startup-launch-kit",
+  "name": "startup-launch-kit-17",
   "compatibility_date": "2026-10-01",
 
   // LEVEL 2: website + backend + database.
